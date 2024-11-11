@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on a app to organize afternoon activities for students
+- 🌱 I’m currently learning use of AI
+- 👯 I’m looking to collaborate on schools
+- 🤔 I’m looking for help with databases in access
+- 💬 Ask me about anything you want
+- 📫 How to reach me: email 
+- ⚡ Fun fact: I love to entertain you
+
+
 <!--
 **tt44mm/tt44mm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
